@@ -7,7 +7,7 @@ Projeto Final da disciplina segurança da informação.
 * **Gabriel Mazurco Ribeiro**	RA:1611014
 * **Lucas Bueno** RA:142441
 
-# Objetivo
+# Objetivo e Uso
 
 ## seginf2017_colheita
 

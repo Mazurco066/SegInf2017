@@ -1,0 +1,18 @@
+decrypt foto - gpg --output self.jpg --decrypt selfie.jpg.gpg
+
+
+encrypt foto - gpg --encrypt --recipient CDEA06C2 selfie.jpg
+
+
+export pub - gpg --export --armor --output Gabriel.pub
+
+
+export key - gpg --output Gabriel.key --export-secret-key CDEA06C2
+
+import key - gpg --import SegInf2017.asc
+
+
+sign file - gpg --clearsign [arquivo]
+verify sign - gpg --verify [arquivo]
+
+sign key - gpg --sign-key [idchave]

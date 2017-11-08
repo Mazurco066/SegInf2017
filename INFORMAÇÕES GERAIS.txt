@@ -1,0 +1,49 @@
+MEMBROS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+-Gabriel Mazurco Ribeiro	RA:1611014
+-Lucas Bueno			RA:142441
+
+Descrição seginf2017_colheita . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+# [uso] ./colheita {formatos} {pasta busca} {arquivo de saída}
+[exemplo] 
+./colheita .txt:.asc:.pdf teste saida.txt
+
+# [PLATAFORMA] SOMENTE LINUX
+
+# [escrito por] mazurco066 (Gabriel Ribeiro)
+
+# [email] mazurco066@gmail.com
+
+# .......
+
+# .......
+
+# [objetivo] busca de palavras chaves no sistema para geração de uma wordlist
+
+Descrição seginf2017_bruteforce . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+# [bruteforce.sh]
+
+# [plataforma] Linux
+# [Disponibilização] Use chmod 777 bruteforce.sh para poder usa-lo
+# [Uso]
+# $ ./bruteforce.sh arquivozipcomsenha.zip wordlist.txt
+# [escrito por] mazurco066 (Gabriel Ribeiro)
+
+Descrição seginf2017_escritas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+# [Desc] Exercícios sobre ensaios sobre os temas definidos nos exercícios 1, 2 e 3 da parte
+escrita. 
+
+Descrição seginf2017_textocifrado . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+# [Desc] Ferramenta simples desenvolvida em c para calcular frequencia das letras no texto
+cifrado designado.
+
+Descrição seginf2017_GnuPG . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+# [Desc] Exercício 3 da parte prática das tarefas onde há chave publica e privada de cada um
+dos membros da dupla que são usadas para criptografar um arquivo .txt assinado.
+# As duas chaves estão assinadas pelo outro membro da dupla.
+# A Meensagem encriptada foi assinada com a chave publica Gabriel.asc

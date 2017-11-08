@@ -1,0 +1,9 @@
+﻿A wordlist usada para quebrar a senha foi a "password007.txt" com a senha: 8.5952E+19
+
+# Obs- Para o funcionamento do shellscript é necessário ter o unzip no sistema
+
+# Esse shellscript pega 2 parametros em sua chamada são usados para fazer uma chamada externa 
+# A chamada externa chama a função unzip -tq {senhas a ser testada} {arquivo zipado que será quebrado} -P > 2>&1
+
+# A plataforma desse script é linux
+# Gabriel Mazurco Ribeiro

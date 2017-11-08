@@ -5,6 +5,7 @@ Projeto Final da disciplina segurança da informação.
 # Objetivo
 
 ## seginf2017_colheita
+
  **[uso]** ./colheita {formatos} {pasta busca} {arquivo de saída}
  
  **[exemplo]** ./colheita .txt:.asc:.pdf teste saida.txt
@@ -14,6 +15,20 @@ Projeto Final da disciplina segurança da informação.
  **[escrito por]** mazurco066 (Gabriel Ribeiro)
  
  **[email]** mazurco066@gmail.com
+ 
+ **[objetivo]** busca de palavras chaves no sistema para geração de uma wordlist
+ 
+## seginf2017_bruteforce
+
+ **[bruteforce.sh]** shellscript
+
+ **[plataforma]** Linux
+ 
+ **[Disponibilização]** Use chmod 777 bruteforce.sh para poder usa-lo
+ 
+ **[Uso]** $ ./bruteforce.sh arquivozipcomsenha.zip wordlist.txt
+ 
+ **[escrito por]** mazurco066 (Gabriel Ribeiro)
 
 ## Membros
 

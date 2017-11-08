@@ -2,6 +2,11 @@
 
 Projeto Final da disciplina segurança da informação.
 
+## Membros
+
+* **Gabriel Mazurco Ribeiro**	RA:1611014
+* **Lucas Bueno** RA:142441
+
 # Objetivo
 
 ## seginf2017_colheita
@@ -29,8 +34,3 @@ Projeto Final da disciplina segurança da informação.
  **[Uso]** $ ./bruteforce.sh arquivozipcomsenha.zip wordlist.txt
  
  **[escrito por]** mazurco066 (Gabriel Ribeiro)
-
-## Membros
-
-* **Gabriel Mazurco Ribeiro**	RA:1611014
-* **Lucas Bueno** RA:142441

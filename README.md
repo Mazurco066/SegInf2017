@@ -51,5 +51,9 @@ dos membros da dupla que são usadas para criptografar um arquivo .txt assinado.
  As duas chaves estão assinadas pelo outro membro da dupla.
  
  A Meensagem encriptada foi assinada com a chave publica Gabriel.asc
+ 
+ # Licença
+ 
+ Esse projeto esta protegido pela licença MIT - veja [LICENSE](LICENSE) para mais detalhes.
 
 
